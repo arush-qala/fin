@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<informationTable>
+  <periodOfReport>2025-09-30</periodOfReport>
+  <infotable>
+    <nameOfIssuer>Company A</nameOfIssuer>
+    <cusip>123456789</cusip>
+    <value>100</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>1000</sshPrnamt>
+    </shrsOrPrnAmt>
+    <titleOfClass>COM</titleOfClass>
+  </infotable>
+  <infotable>
+    <nameOfIssuer>Company B</nameOfIssuer>
+    <cusip>987654321</cusip>
+    <value>200</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>2000</sshPrnamt>
+    </shrsOrPrnAmt>
+    <titleOfClass>COM</titleOfClass>
+  </infotable>
+</informationTable>
